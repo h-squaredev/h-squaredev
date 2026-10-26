@@ -17,4 +17,4 @@ Estou aprendendo construindo: os trabalhos das disciplinas e os projetos ficam a
 - [hsquare_tracks: música com código no Strudel](https://github.com/h-squaredev/hsquare_tracks)
 
 ## Agora
-Cursando Engenharia de Software e Eletromagnetismo na UFMT. Procurando estágio.
+Cursando as disciplinas Engenharia de Software, Estrutura de Dados I, Programação III, Lógica Digital, Cálculo Numérico e Computacional e Introdução ao Eletromagnetismo na UFMT. Procurando estágio.
