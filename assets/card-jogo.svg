@@ -11,7 +11,7 @@
 <rect x="6" y="6" width="488" height="158" rx="12" fill="#0d1117" stroke="#30363d"/>
 <g clip-path="url(#clip)"><rect x="6" y="6" width="4" height="158" fill="url(#bar)"/></g>
 <text x="28" y="46" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="20" font-weight="700" fill="url(#tg)">Jogo da Velha em C++ com POO</text>
-<text x="28" y="72" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="13.5" fill="#9198a1">Jogo completo em C++ com orientaÃ§Ã£o a objetos.</text>
+<text x="28" y="72" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="13.5" fill="#9198a1">Jogo completo em C++ com orientação a objetos.</text>
 <circle cx="33" cy="136" r="5.5" fill="#f34b7d"/>
 <text x="45" y="140.5" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="12.5" fill="#9198a1">C++</text>
 
