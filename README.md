@@ -1,7 +1,7 @@
 <div align="center">
-![Banner animado](./assets/banner.gif)
+<img src="./assets/banner.gif" alt="Banner animado" width="100%">
 
-
+  
 # Oi, eu sou o Humberto 👋
 
 Estudante de Ciência da Computação na UFMT (4º semestre), em Barra do Garças - MT.
