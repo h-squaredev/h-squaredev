@@ -27,7 +27,7 @@ Estou aprendendo construindo: os trabalhos das disciplinas e os projetos ficam a
 <img src="./assets/h2-projetos.svg" alt="Projetos para ver primeiro">
 
 <div align="center">
-<a href="https://github.com/h-squaredev/hsquare_tracks"><img src="./assets/card-tracks.svg" alt="hsquare_tracks: música com código no Strudel"></a>
+<a href="[https://github.com/h-squaredev/hsquare_tracks](https://h-squaredev.github.io/hsquare_tracks/)"><img src="./assets/card-tracks.svg" alt="hsquare_tracks: música com código no Strudel"></a>
 <a href="https://github.com/h-squaredev/Programming-IV"><img src="./assets/card-api.svg" alt="API de posts com login (NestJS)"></a>
 <a href="https://github.com/h-squaredev/TicTacToe"><img src="./assets/card-jogo.svg" alt="Jogo da Velha em C++ com POO"></a>
 </div>
