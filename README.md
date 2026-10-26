@@ -1,4 +1,6 @@
 <div align="center">
+![Banner animado](./assets/banner.gif)
+
 
 # Oi, eu sou o Humberto 👋
 
