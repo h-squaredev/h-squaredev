@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.gif" alt="Banner animado" width="100%">
+<img src="./assets/banner.gif" alt="Banner animado" height="50vh" width="100vw">
 
   
 # Oi, eu sou o Humberto 👋
