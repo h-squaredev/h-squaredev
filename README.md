@@ -1,8 +1,7 @@
 <div align="center">
 <img src="./assets/banner1.2transparent.gif" alt="Banner animado" width="100%">
 
-  
-# Oi, eu sou o Humberto 👋
+<img src="./assets/h2-oi.svg" alt="Oi, eu sou o Humberto 👋">
 
 Estudante de Ciência da Computação na UFMT (4º semestre), em Barra do Garças - MT.
 Estou aprendendo construindo: os trabalhos das disciplinas e os projetos ficam aqui.
